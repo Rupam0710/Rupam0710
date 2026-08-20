@@ -28,9 +28,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam0710&theme=dark&hide_border=true)](https://github.com/Rupam0710)
-
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Rupam0710&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam0710&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
