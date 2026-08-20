@@ -24,11 +24,13 @@
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam0710&theme=github-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam0710&theme=dark&hide_border=true)](https://github.com/Rupam0710)
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Rupam0710&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
 
 </div>
 
