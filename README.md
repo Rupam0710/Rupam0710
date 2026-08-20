@@ -16,17 +16,6 @@
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
-## � GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam0710&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam0710&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
-
-<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 🚀 The Shift
 
