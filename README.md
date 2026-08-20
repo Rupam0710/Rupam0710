@@ -28,6 +28,8 @@
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
+## 🚀 The Shift
+
 Transitioning from traditional full-stack web development to **AI engineering**—leveraging production software architecture to build intelligent systems that **think**, **reason**, and **autonomously solve** complex problems.
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
