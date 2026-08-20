@@ -9,15 +9,28 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Rupam0710-black?style=flat-square&logo=github)](https://github.com/Rupam0710)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Pal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rupam-pal-0213a31a9)
 
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rupam0710&query=public_repos&label=Repositories&style=flat-square&color=blue)
+![Contributions](https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat-square)
+
 </div>
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
-## 🚀 The Shift
+## � GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam0710&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam0710&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
+
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 Transitioning from traditional full-stack web development to **AI engineering**—leveraging production software architecture to build intelligent systems that **think**, **reason**, and **autonomously solve** complex problems.
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 💡 What I've Built
 
@@ -56,38 +69,42 @@ Deep dive into **PydanticAI** for type-safe, production-grade LLM agents with st
 </tr>
 </table>
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 🤝 Contributing
 
 ### ✨ [diagram-design](https://github.com/cathrynlavery/diagram-design)
 38+ editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG—clean, minimal, no Mermaid clutter.
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💼 By Day
-```
-Languages: C# · Python
-Frontend: Angular · React  
-Backend: ASP.NET Core
-Database: SQL Server
-Cloud: Azure
-```
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 🌙 By Night (AI & LLMs)
-```
-Frameworks: LangGraph · PydanticAI · FastAPI
-LLM APIs: Google Gemini · OpenAI
-Focus: RAG Pipelines · Multi-Agent Systems · Document Processing · Multimodal AI
-```
+
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=python&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-FF6B6B?style=flat-square&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8F7EE7?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Specializations:** RAG Pipelines · Multi-Agent Systems · Document Processing · Multimodal AI
 
 </div>
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 🔗 Let's Connect
 
@@ -101,7 +118,7 @@ Focus: RAG Pipelines · Multi-Agent Systems · Document Processing · Multimodal
 
 </div>
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## ⚡ What Drives Me
 
@@ -111,7 +128,7 @@ Focus: RAG Pipelines · Multi-Agent Systems · Document Processing · Multimodal
 - 📦 Full-stack development with modern frameworks
 - 🌟 Open-source contributions that matter
 
----
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 <div align="center">
 
