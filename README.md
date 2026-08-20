@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam0710&theme=github-dark&hide_border=true&area=true)
+![Contribution Graph](graph.jpg)
 
 </div>
 
