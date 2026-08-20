@@ -5,9 +5,17 @@
 **SDE-2 Full Stack Developer** @ Euromonitor International  
 *Building intelligent systems with LLMs, RAG & multi-agent pipelines*
 
+</div>
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupampalportfolio.netlify.app-blue?style=flat-square)](https://rupampalportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rupam0710-black?style=flat-square&logo=github)](https://github.com/Rupam0710)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Pal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rupam-pal-0213a31a9)
+
+</div>
+
+<div align="center">
 
 ![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rupam0710&query=public_repos&label=Repositories&style=flat-square&color=blue)
 ![Contributions](https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat-square)
@@ -16,6 +24,15 @@
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
+## 📊 Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam0710&theme=github-dark&hide_border=true)
+
+</div>
+
+<img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
 ## 🚀 The Shift
 
