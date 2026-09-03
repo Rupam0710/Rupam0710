@@ -46,9 +46,14 @@ Transitioning from traditional full-stack web development to **AI engineering**�
 
 Actively maintaining and contributing to community-driven AI initiatives:
 
-- **[OpenMAIC](https://github.com/Rupam0710/OpenMAIC)** ⭐ 30,695 | 🔗 5,095
-- **[diagram-design](https://github.com/Rupam0710/diagram-design)** ⭐ 29,893 | 🔗 1,917
-- **[docling](https://github.com/Rupam0710/docling)** ⭐ 65,916 | 🔗 4,740 (Most starred!)
+- **[OpenMAIC](https://github.com/Rupam0710/OpenMAIC)** ⭐ 30,695 | 🔗 5,095  
+  Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+
+- **[diagram-design](https://github.com/Rupam0710/diagram-design)** ⭐ 29,893 | 🔗 1,917  
+  29 editorial diagram types for Claude Code — self-contained HTML + SVG visualizations with no Mermaid bloat
+
+- **[docling](https://github.com/Rupam0710/docling)** ⭐ 65,916 | 🔗 4,740 (Most starred!)  
+  Get your documents ready for gen AI — industrial-grade document intelligence platform
 
 ### � Other Notable Projects
 
