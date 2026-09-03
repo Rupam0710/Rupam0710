@@ -40,49 +40,38 @@ Transitioning from traditional full-stack web development to **AI engineering**�
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
-## 💡 What I've Built
+## 📌 Current Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🌟 Open-Source Projects
 
-### 🧠 [ResearchSwarm](https://github.com/Rupam0710/-ResearchSwarm-Multi-Agent-Deep-Research-Engine)
-A swarm of specialized AI agents that collectively research topics and produce structured, cited synthesis reports. Multi-agent orchestration at its finest.
+Actively maintaining and contributing to community-driven AI initiatives:
 
-</td>
-<td width="50%">
+- **[OpenMAIC](https://github.com/Rupam0710/OpenMAIC)** ⭐ 30,695 | 🔗 5,095
+- **[diagram-design](https://github.com/Rupam0710/diagram-design)** ⭐ 29,893 | 🔗 1,917
+- **[docling](https://github.com/Rupam0710/docling)** ⭐ 65,916 | 🔗 4,740 (Most starred!)
 
-### 🏥 [AI Skin Specialist](https://github.com/Rupam0710/AI-Skin-Specialist)
-Multimodal healthcare assistant with voice, image, and video processing. Delivers written and spoken guidance using advanced LLM capabilities.
+### � Other Notable Projects
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Exploring emerging patterns in agentic AI, workflow automation, and multimodal systems:
 
-### 📚 [ai-cookbook](https://github.com/Rupam0710/ai-cookbook)
-**Practical recipes for:**
-- 🔗 LLM API integration patterns
-- 🎯 RAG pipelines  
-- 📄 Document extraction
-- 🎮 Real-world AI templates
-
-</td>
-<td width="50%">
-
-### ⚙️ [agentic-ai-with-pydantic-ai](https://github.com/Rupam0710/agentic-ai-with-pydantic-ai)
-Deep dive into **PydanticAI** for type-safe, production-grade LLM agents with structured outputs and bulletproof validation.
-
-</td>
-</tr>
-</table>
+- **[ai-cookbook](https://github.com/Rupam0710/ai-cookbook)** — Practical, code-first AI engineering recipes covering LLM APIs, RAG pipelines, document extraction, and conversational AI
+- **[ResearchSwarm](https://github.com/Rupam0710/-ResearchSwarm-Multi-Agent-Deep-Research-Engine)** — A swarm of specialized AI agents that collectively researches complex topics and produces structured, cited synthesis reports
+- **[Open-Knowledge-Format-OKF](https://github.com/Rupam0710/Open-Knowledge-Format-OKF-)** — A curated knowledge base documenting Google Cloud's open specification for portable metadata and context
+- **[AI-Skin-Specialist](https://github.com/Rupam0710/AI-Skin-Specialist)** — Multimodal healthcare assistant combining voice, image, and video analysis with conversational AI guidance
+- **[django-celery-redis-async-tasks](https://github.com/Rupam0710/django-celery-redis-async-tasks)** — Async task queue patterns with Django, Celery & Redis — foundational architecture for AI agent frameworks
+- **[agentic-ai-with-pydantic-ai](https://github.com/Rupam0710/agentic-ai-with-pydantic-ai)** — Type-safe, production-grade LLM agents with structured outputs, dependency injection, and tool use
+- **[Job-Hunter-Agent](https://github.com/Rupam0710/Job-Hunter-Agent)** — AI agent that searches LinkedIn, Naukri, Wellfound and Cutshort in parallel with scored job matches
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
-## 🤝 Contributing
+## 🤝 Open Source & Collaboration
 
-### ✨ [diagram-design](https://github.com/cathrynlavery/diagram-design)
-38+ editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG—clean, minimal, no Mermaid clutter.
+I enjoy building in public, sharing practical AI patterns, and contributing to tools that make intelligent systems more useful and accessible.
+
+### ✨ Community & experimentation
+- Building reusable AI architecture patterns and prototypes
+- Exploring practical LLM integrations for production-ready systems
+- Sharing learnings around agents, RAG, evaluation, and multimodal experiences
 
 <img width="100%" height="1" style="background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.1));display:block;margin:20px 0">
 
@@ -145,3 +134,4 @@ Deep dive into **PydanticAI** for type-safe, production-grade LLM agents with st
 *Exploring the intersection of software engineering and artificial intelligence*
 
 </div>
+
