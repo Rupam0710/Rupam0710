@@ -46,20 +46,27 @@ Transitioning from traditional full-stack web development to **AI engineering**�
 
 Actively maintaining and contributing to community-driven AI initiatives:
 
-- **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 30,695 | 🔗 5,095  
+- **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 33,365  
   Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ⭐ 29,893 | 🔗 1,917  
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ⭐ 33,586  
   38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-- **[docling](https://github.com/docling-project/docling)** ⭐ 65,916 | 🔗 4,740 (Most starred!)  
+- **[docling](https://github.com/docling-project/docling)** ⭐ 66,149  
   Get your documents ready for gen AI
 
-### � Other Notable Projects
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** ⭐ 136,609  
+  100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+
+- **[knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)** ⭐ 9,112  
+  Google Cloud Knowledge Catalog tools and samples.
+
+### 🧩 Other Notable Projects
 
 Exploring emerging patterns in agentic AI, workflow automation, and multimodal systems:
 
 - **[ai-cookbook](https://github.com/Rupam0710/ai-cookbook)** — Practical, code-first AI engineering recipes covering LLM APIs, RAG pipelines, document extraction, and conversational AI
+- **[pgvectorscale-rag-solution](https://github.com/Rupam0710/pgvectorscale-rag-solution)** — An implementation of pgvector scale to build powerful RAG solutions
 - **[ResearchSwarm](https://github.com/Rupam0710/-ResearchSwarm-Multi-Agent-Deep-Research-Engine)** — A swarm of specialized AI agents that collectively researches complex topics and produces structured, cited synthesis reports
 - **[Open-Knowledge-Format-OKF](https://github.com/Rupam0710/Open-Knowledge-Format-OKF-)** — A curated knowledge base documenting Google Cloud's open specification for portable metadata and context
 - **[AI-Skin-Specialist](https://github.com/Rupam0710/AI-Skin-Specialist)** — Multimodal healthcare assistant combining voice, image, and video analysis with conversational AI guidance
